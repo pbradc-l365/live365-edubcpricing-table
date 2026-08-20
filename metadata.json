@@ -1,0 +1,8 @@
+{
+  "name": "Live365 Pricing Table",
+  "description": "Pixel-perfect interactive pricing table for Live365 broadcaster plans with dynamic ad model, billing cycle toggles, expandable features comparison, and iFrame embed support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
