@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/your-new-repo-name/', // Add this line!
+    base: '/live365-edupricing-table/', // Add this line!
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
